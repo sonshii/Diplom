@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Sign Up + Sign In*/
+
+.signUp {
+  background-color: #f1eee9;
+  height: 100%;
+}
+
+.signUp__form {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.signUp__form input {
+  background-color: #ededed;
+  outline: none;
+  border-radius: 20px;
+  text-indent: 10px;
+  height: 40px;
+}
+
+.invalid {
+  border: 1px solid red;
+}
+
+/* Main page and other*/
+
+.main-page-wrapper {
+  background-color: #f1eee9;
+  height: 100%;
+  border: 0;
+  padding: 0;
+}
+
+.left-panel {
+  background-color: #fff;
+  height: 100%;
+}
+
+.left-menu li {
+  margin-top: 15px;
+}
+
+.background-svg {
+  height: 35%;
+}
+
+.head {
+  color: #c2bfbb;
+}
+
+.navbar {
+  height: 45px;
+  width: 100%;
+  background-color: #fff;
+}
+
+.qwerty {
+  border-bottom: none;
+}
+
+.leather {
+  background-image: url("https://sun9-49.userapi.com/c858028/v858028610/1dcefa/UDczi320XQs.jpg");
+  border-radius: 0px 20px 20px 0px !important;
+}
+
+.qq {
+  font-style: italic;
+  color: #fff;
+}
